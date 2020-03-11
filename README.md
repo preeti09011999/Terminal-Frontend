@@ -1,2 +1,2 @@
-# Terminal-Frontent
+# Terminal-Frontend
 Android application
